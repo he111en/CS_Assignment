@@ -4,3 +4,4 @@
 #4. The neurocognitive effects of alcohol on adolescents and college students - DW Ziegler et al., 2005
 #5. Kinematic and chemical evolution of early-type galaxies - DW Ziegler et al., 2005
 
+![Graph of WO and Dutch beer consumption](wo_beer_correlation.png)
